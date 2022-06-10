@@ -28,3 +28,4 @@ vignettes/*.pdf
 .Renviron
 dash.Rproj
 get_twitter_data.R
+get_twitter_data_v2.R
